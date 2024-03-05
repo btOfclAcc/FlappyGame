@@ -1,0 +1,8 @@
+﻿  Flappy.cpp
+C:\Users\lcv2142593\Downloads\Flappy\Flappy\Flappy.h(28,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2142593\Downloads\Flappy\Flappy\Flappy.h(59,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2142593\Downloads\Flappy\Flappy\Flappy.h(100,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2142593\Downloads\Flappy\Flappy\Flappy.h(101,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2142593\Downloads\Flappy\Flappy\Flappy.cpp(31,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2142593\Downloads\Flappy\Flappy\Flappy.cpp(93,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Flappy.vcxproj -> C:\Users\lcv2142593\Downloads\Flappy\x64\Debug\Flappy.exe
